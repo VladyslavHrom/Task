@@ -1,0 +1,12 @@
+D:\Cod\Practice\TemperatureConvector\Correction\bin\Debug\netcoreapp3.1\Correction.exe
+D:\Cod\Practice\TemperatureConvector\Correction\bin\Debug\netcoreapp3.1\Correction.deps.json
+D:\Cod\Practice\TemperatureConvector\Correction\bin\Debug\netcoreapp3.1\Correction.runtimeconfig.json
+D:\Cod\Practice\TemperatureConvector\Correction\bin\Debug\netcoreapp3.1\Correction.runtimeconfig.dev.json
+D:\Cod\Practice\TemperatureConvector\Correction\bin\Debug\netcoreapp3.1\Correction.dll
+D:\Cod\Practice\TemperatureConvector\Correction\bin\Debug\netcoreapp3.1\Correction.pdb
+D:\Cod\Practice\TemperatureConvector\Correction\obj\Debug\netcoreapp3.1\Correction.csproj.CoreCompileInputs.cache
+D:\Cod\Practice\TemperatureConvector\Correction\obj\Debug\netcoreapp3.1\Correction.AssemblyInfoInputs.cache
+D:\Cod\Practice\TemperatureConvector\Correction\obj\Debug\netcoreapp3.1\Correction.AssemblyInfo.cs
+D:\Cod\Practice\TemperatureConvector\Correction\obj\Debug\netcoreapp3.1\Correction.dll
+D:\Cod\Practice\TemperatureConvector\Correction\obj\Debug\netcoreapp3.1\Correction.pdb
+D:\Cod\Practice\TemperatureConvector\Correction\obj\Debug\netcoreapp3.1\Correction.genruntimeconfig.cache
