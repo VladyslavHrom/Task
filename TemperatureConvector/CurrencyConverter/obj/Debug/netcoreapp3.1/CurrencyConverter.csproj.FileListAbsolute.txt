@@ -1,0 +1,13 @@
+D:\Cod\Practice\TemperatureConvector\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.exe
+D:\Cod\Practice\TemperatureConvector\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.deps.json
+D:\Cod\Practice\TemperatureConvector\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.json
+D:\Cod\Practice\TemperatureConvector\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.runtimeconfig.dev.json
+D:\Cod\Practice\TemperatureConvector\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.dll
+D:\Cod\Practice\TemperatureConvector\CurrencyConverter\bin\Debug\netcoreapp3.1\CurrencyConverter.pdb
+D:\Cod\Practice\TemperatureConvector\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csprojAssemblyReference.cache
+D:\Cod\Practice\TemperatureConvector\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.csproj.CoreCompileInputs.cache
+D:\Cod\Practice\TemperatureConvector\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfoInputs.cache
+D:\Cod\Practice\TemperatureConvector\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.AssemblyInfo.cs
+D:\Cod\Practice\TemperatureConvector\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.dll
+D:\Cod\Practice\TemperatureConvector\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.pdb
+D:\Cod\Practice\TemperatureConvector\CurrencyConverter\obj\Debug\netcoreapp3.1\CurrencyConverter.genruntimeconfig.cache
