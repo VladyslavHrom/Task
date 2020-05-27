@@ -29,10 +29,7 @@ namespace CurrencyConverter
             {
                 int _lenghtSearch = search.Length;
                 int index = result.IndexOf(search);
-                if (index >= 0)
-                     //Console.WriteLine( index + 1);
-                     Console.WriteLine(" ");
-
+               
                 string valueRSD = result.Substring(index+ _lenghtSearch, 4);// Отримуємо значення RSD, 4 символи з початкового індексу 20877
 
                 double coefficient = Convert.ToDouble(valueRSD, CultureInfo.InvariantCulture);// Визначаємо вартість RSD в UAH
